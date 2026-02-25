@@ -1,0 +1,16 @@
+From,To,Distance
+Center A,Zone 1,5
+Center A,Zone 2,7
+Center A,Zone 3,6
+Center B,Zone 2,4
+Center B,Zone 3,5
+Center B,Zone 4,8
+Center C,Zone 1,6
+Center C,Zone 4,5
+Center C,Zone 5,7
+Zone 1,Zone 2,3
+Zone 1,Zone 5,6
+Zone 2,Zone 3,2
+Zone 2,Zone 5,4
+Zone 3,Zone 4,5
+Zone 4,Zone 5,3
